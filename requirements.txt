@@ -46,7 +46,6 @@ pyparsing==3.0.6
 pyrsistent==0.18.0
 pytz==2021.3
 pytz-deprecation-shim==0.1.0.post0
-pywinpty==1.1.6
 requests==2.26.0
 scikit-learn==1.0.1
 scipy==1.7.2
@@ -55,18 +54,3 @@ setuptools-scm==6.3.2
 sklearn==0.0
 smmap==5.0.0
 streamlit==1.2.0
-terminado==0.12.1
-testpath==0.5.0
-threadpoolctl==3.0.0
-toml==0.10.2
-tomli==1.2.2
-toolz==0.11.2
-typing_extensions==4.0.0
-tzdata==2021.5
-tzlocal==4.1
-urllib3==1.26.7
-validators==0.18.2
-watchdog==2.1.6
-webencodings==0.5.1
-widgetsnbextension==3.5.2
-wincertstore==0.2
